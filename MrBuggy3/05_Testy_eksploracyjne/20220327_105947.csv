@@ -1,0 +1,10 @@
+﻿Time,Reporter,Type,Content,Screenshot,RTF Note
+27.03.2022 10:59:47,Mateusz Karcz,(Rapid Reporter version),"1.22.02.28",,
+27.03.2022 10:59:47,Mateusz Karcz,Session Reporter,"Mateusz Karcz",,
+27.03.2022 10:59:47,Mateusz Karcz,Session Charter,"1",,
+27.03.2022 11:00:17,Mateusz Karcz,Setup,"mrBuggy3 odpalony w trybie bez logowania",,
+27.03.2022 11:00:38,Mateusz Karcz,Test,"Test eksploracyjny",,
+27.03.2022 11:07:26,Mateusz Karcz,Test,"test nawigacji",,
+27.03.2022 11:08:13,Mateusz Karcz,Note,"nawigacja poprzez przyciski następne i poprzednie działa gdy niektóre zadania są już niedostępne",,
+27.03.2022 11:11:14,Mateusz Karcz,Note,"po nacisnieciu następne przy ostatnim elemencie program wybierze pierwszy dostnepny element",,
+27.03.2022 11:11:28,Mateusz Karcz,Note,"przy wybraniu poprzednie przy pierwszym; program przejdzie do ostatniego",,
